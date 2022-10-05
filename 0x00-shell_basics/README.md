@@ -11,3 +11,4 @@ There are the scripts contained in this directory and what they do:
 10. 9-firstdirdeletion deletes the directory my_first_directory in the /tmp directory.
 11. 10-back changes the working directory to the previous one.
 12. 11-lists lists all files including the hidden ones in the current directory and the parent of the current directory and the /boot directory in this order in long format.
+13. 12-file_type prints the type of the file named iamafile in the /tmp directory.
