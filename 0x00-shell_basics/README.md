@@ -1,1 +1,3 @@
+There are the scripts contained in this directory and what they do:
 1. 0-current_working_directory prints the absolute path name of the current working directory.
+2. 1-listit lists the files and directories in ther current working directory.
