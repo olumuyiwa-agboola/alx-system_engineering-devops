@@ -9,3 +9,4 @@ There are the scripts contained in this directory and what they do:
 8. 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 9. 8-firstdelete deletes the file betty in /tmp/my_first_directory.
 10. 9-firstdirdeletion deletes the directory my_first_directory in the /tmp directory.
+11. 10-back changes the working directory to the previous one.
