@@ -7,3 +7,4 @@ There are the scripts contained in this directory and what they do:
 6. 5-listfilesdigitonly lists directory contents in long format with user and group IDs displayed numerically including hidden files.
 7. 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
 8. 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
+9. 8-firstdelete deletes the file betty in /tmp/my_first_directory.
