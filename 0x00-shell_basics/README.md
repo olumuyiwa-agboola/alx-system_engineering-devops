@@ -10,3 +10,4 @@ There are the scripts contained in this directory and what they do:
 9. 8-firstdelete deletes the file betty in /tmp/my_first_directory.
 10. 9-firstdirdeletion deletes the directory my_first_directory in the /tmp directory.
 11. 10-back changes the working directory to the previous one.
+12. 11-lists lists all files including the hidden ones in the current directory and the parent of the current directory and the /boot directory in this order in long format.
