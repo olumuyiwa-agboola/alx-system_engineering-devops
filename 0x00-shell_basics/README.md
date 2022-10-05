@@ -12,3 +12,4 @@ There are the scripts contained in this directory and what they do:
 11. 10-back changes the working directory to the previous one.
 12. 11-lists lists all files including the hidden ones in the current directory and the parent of the current directory and the /boot directory in this order in long format.
 13. 12-file_type prints the type of the file named iamafile in the /tmp directory.
+14. 13-symbolic_link links /bin/ls to __ls__ in the current working directory.
