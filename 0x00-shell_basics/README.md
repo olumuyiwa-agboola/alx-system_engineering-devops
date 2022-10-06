@@ -17,3 +17,4 @@ There are the scripts contained in this directory and what they do:
 16. 100-lets_moves all the files beginning with an uppercase letter to the directory /tmp/u. 
 17. 101-clean_emacs deletes all files in the current working directory that end with the character ~.
 18. 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+19. 103-commas lists all the files and directories of the current directory separated by commas, and some other features.
