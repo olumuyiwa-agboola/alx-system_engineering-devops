@@ -1,4 +1,4 @@
-There are the scripts contained in this directory and what they do:
+These are the scripts contained in this directory and what they do:
 1. 0-current_working_directory prints the absolute path name of the current working directory.
 2. 1-listit lists the files and directories in ther current working directory.
 3. 2-bring_me_home changes the working directory to the user's home directory.
@@ -18,3 +18,5 @@ There are the scripts contained in this directory and what they do:
 17. 101-clean_emacs deletes all files in the current working directory that end with the character ~.
 18. 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 19. 103-commas lists all the files and directories of the current directory separated by commas, and some other features.
+
+There is a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
