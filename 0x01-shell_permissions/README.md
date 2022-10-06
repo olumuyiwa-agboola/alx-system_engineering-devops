@@ -10,3 +10,4 @@ This directory contains the following scripts:
 9. 8-James_Bond, gives the user and group no permission at all and others all the permissions.
 10. 9-John_Doe, sets the permission of the file hello to -rwxr-x-wx.
 11. 10-mirror_permissions, sets the mode of the file hello to the same as olleh's.
+12. 11-directory_permissions, adds execute permission to add subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
