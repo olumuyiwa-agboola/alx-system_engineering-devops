@@ -16,3 +16,4 @@ There are the scripts contained in this directory and what they do:
 15. 14-copy_html copies all HTML files from the currnet working directory to the parent of the working directory but only copies files that did not exist in the pare of the working directory or were newer versions than the versions in the parent of the working directory.
 16. 100-lets_moves all the files beginning with an uppercase letter to the directory /tmp/u. 
 17. 101-clean_emacs deletes all files in the current working directory that end with the character ~.
+18. 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
