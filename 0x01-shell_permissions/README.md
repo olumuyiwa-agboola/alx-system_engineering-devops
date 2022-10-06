@@ -8,3 +8,4 @@ This directory contains the following scripts:
 7. 6-multiple_permissions, adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 8. 7-everybody, adds execution permission to the owner, the group and the other users, to the file hello.
 9. 8-James_Bond, gives the user and group no permission at all and others all the permissions.
+10. 9-John_Doe, sets the permission of the file hello to -rwxr-x-wx.
