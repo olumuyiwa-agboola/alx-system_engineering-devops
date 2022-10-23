@@ -15,3 +15,4 @@ This directory contains the following scripts:
 14. 13-change_group, changes the goup owner to school for the file hello, the file hello will be in the working directory.
 15. 100-change_owner_and_group, changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 16. 101-symbolic_link_permissions, changes the owner and the group owner of _hello to vincent and staff respectively, where _hello is a symbolic link.
+17. 102-if_only, changes the owner of the file hello to betty only if it is owned by the user guillaume.
